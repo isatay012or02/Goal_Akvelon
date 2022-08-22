@@ -1,0 +1,17 @@
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\obj\Debug\net6.0\Goals.Persistence.csproj.AssemblyReference.cache
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\obj\Debug\net6.0\Goals.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\obj\Debug\net6.0\Goals.Persistence.AssemblyInfoInputs.cache
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\obj\Debug\net6.0\Goals.Persistence.AssemblyInfo.cs
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\obj\Debug\net6.0\Goals.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\bin\Debug\net6.0\Goals.Persistence.deps.json
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\bin\Debug\net6.0\Goals.Persistence.dll
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\bin\Debug\net6.0\Goals.Persistence.pdb
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\bin\Debug\net6.0\Goals.Application.dll
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\bin\Debug\net6.0\Goals.Domain.dll
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\bin\Debug\net6.0\Goals.Application.pdb
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\bin\Debug\net6.0\Goals.Domain.pdb
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\obj\Debug\net6.0\Goals.Persistence.csproj.CopyComplete
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\obj\Debug\net6.0\Goals.Persistence.dll
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\obj\Debug\net6.0\refint\Goals.Persistence.dll
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\obj\Debug\net6.0\Goals.Persistence.pdb
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Persistence\obj\Debug\net6.0\ref\Goals.Persistence.dll

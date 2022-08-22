@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goal.Persistence\\Goals.Persistence.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goal.Persistence\\Goals.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goal.Persistence\\Goals.Persistence.csproj",
+        "projectName": "Goals.Persistence",
+        "projectPath": "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goal.Persistence\\Goals.Persistence.csproj",
+        "packagesPath": "C:\\Users\\isaa0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goal.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\isaa0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goals.Application\\Goals.Application.csproj": {
+                "projectPath": "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goals.Application\\Goals.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goals.Application\\Goals.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goals.Application\\Goals.Application.csproj",
+        "projectName": "Goals.Application",
+        "projectPath": "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goals.Application\\Goals.Application.csproj",
+        "packagesPath": "C:\\Users\\isaa0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goals.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\isaa0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goals.Domain\\Goals.Domain.csproj": {
+                "projectPath": "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goals.Domain\\Goals.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goals.Domain\\Goals.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goals.Domain\\Goals.Domain.csproj",
+        "projectName": "Goals.Domain",
+        "projectPath": "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goals.Domain\\Goals.Domain.csproj",
+        "packagesPath": "C:\\Users\\isaa0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isaa0\\source\\repos\\Goals.Akvelon\\Goals.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\isaa0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

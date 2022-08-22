@@ -1,0 +1,12 @@
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Domain\bin\Debug\net6.0\Goals.Domain.deps.json
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Domain\bin\Debug\net6.0\Goals.Domain.dll
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Domain\bin\Debug\net6.0\Goals.Domain.pdb
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Domain\obj\Debug\net6.0\Goals.Domain.csproj.AssemblyReference.cache
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Domain\obj\Debug\net6.0\Goals.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Domain\obj\Debug\net6.0\Goals.Domain.AssemblyInfoInputs.cache
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Domain\obj\Debug\net6.0\Goals.Domain.AssemblyInfo.cs
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Domain\obj\Debug\net6.0\Goals.Domain.csproj.CoreCompileInputs.cache
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Domain\obj\Debug\net6.0\Goals.Domain.dll
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Domain\obj\Debug\net6.0\refint\Goals.Domain.dll
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Domain\obj\Debug\net6.0\Goals.Domain.pdb
+C:\Users\isaa0\source\repos\Goals.Akvelon\Goals.Domain\obj\Debug\net6.0\ref\Goals.Domain.dll
